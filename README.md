@@ -20,9 +20,7 @@ How to Run the Project
 1. Clone the Repository
 
 Bash
-git clone https://github.com/MitulBhatnagar/oss-audit---24BEY10073-.git
-cd oss-audit-git--24BEY10073-
-2. Set Permissions
+git clone https://github.com/Amartya-09/oss-audit--24BCG10144.git
 
 Bash
 chmod +x *.sh
